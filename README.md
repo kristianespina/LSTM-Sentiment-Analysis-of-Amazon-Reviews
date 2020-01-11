@@ -4,7 +4,7 @@ LSTM built using PyTorch to predict whether a certain review is positive or nega
 
 
 ## 🍰 Training the Model
-- Download the [dataset](('https://www.kaggle.com/bittlingmayer/amazonreviews?))
+- Download the [dataset]('https://www.kaggle.com/bittlingmayer/amazonreviews?)
 - Extract the dataset
 - Run the jupyter notebook
 
